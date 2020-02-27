@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.0" width="453" height="453" id="svg5532" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(-9.31263,-200.1479)" id="layer1">
+    <g transform="translate(235.81263,426.6479)" id="Board">
+      <g id="BaseBoard">
+        <path d="M 226.5,0 A 226.5,226.5 0 1 1 -226.5,2.7737334e-14 A 226.5,226.5 0 1 1 226.5,-5.5474668e-14 z" id="path1307" style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.10000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
+      </g>
+      <g id="Inside Spider" style="stroke:#d0edfd;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+        <path d="M 170.55,0 A 170.55,170.55 0 1 1 -170.55,2.0885662e-14 A 170.55,170.55 0 1 1 170.55,-4.1771323e-14 z" id="DoubleRed" style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:evenodd"/>
+        <path d="M 161.45,0 A 161.45,161.45 0 1 1 -161.45,1.9771269e-14 A 161.45,161.45 0 1 1 161.45,-3.9542538e-14 z" id="path2195" style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd"/>
+        <g id="GreenDoubleSpiders" style="opacity:1;fill:#00a000;fill-opacity:1;fill-rule:evenodd">
+          <path d="M 170.55 0 C 170.55 17.897 167.733 35.682 162.203 52.703 L 102.457 33.29 L 0 0 L 170.55 0 Z" transform="matrix(-0.45399,-0.891007,0.891007,-0.45399,0,0)" id="path4826" style="fill: rgb(0, 160, 0); fill-opacity: 1; stroke: rgb(208, 253, 246); paint-order: fill;"/>
+          <path d="M 170.55,0 A 170.55,170.55 0 0 1 162.20269,52.70285 L 0,0 z" transform="matrix(-0.891006,-0.453991,0.453991,-0.891006,0,0)" id="path4830" style="fill:#00a000;fill-opacity:1"/>
+          <path d="M 170.55,0 A 170.55,170.55 0 0 1 162.20269,52.70285 L 0,0 z" transform="matrix(-0.987688,0.156434,-0.156434,-0.987688,0,0)" id="path4832" style="fill:#00a000;fill-opacity:1"/>
+          <path d="M 170.55,0 A 170.55,170.55 0 0 1 162.20269,52.70285 L 0,0 z" transform="matrix(-0.707107,0.707106,-0.707106,-0.707107,0,0)" id="path4834" style="fill:#00a000;fill-opacity:1"/>
+          <path d="M 170.55,0 A 170.55,170.55 0 0 1 162.20269,52.70285 L 0,0 z" transform="matrix(-0.156435,0.987688,-0.987688,-0.156435,0,0)" id="path4836" style="fill:#00a000;fill-opacity:1"/>
+          <path d="M 170.55,0 A 170.55,170.55 0 0 1 162.20269,52.70285 L 0,0 z" transform="matrix(0.45399,0.891007,-0.891007,0.45399,0,0)" id="path4838" style="fill:#00a000;fill-opacity:1"/>
+          <path d="M 170.55,0 A 170.55,170.55 0 0 1 162.20269,52.70285 L 0,0 z" transform="matrix(0.891006,0.453991,-0.453991,0.891006,0,0)" id="path4840" style="fill:#00a000;fill-opacity:1"/>
+          <path d="M 170.55,0 A 170.55,170.55 0 0 1 162.20269,52.70285 L 0,0 z" transform="matrix(0.987688,-0.156434,0.156434,0.987688,0,0)" id="path4842" style="fill:#00a000;fill-opacity:1"/>
+          <path d="M 170.55,0 A 170.55,170.55 0 0 1 162.20269,52.70285 L 0,0 z" transform="matrix(0.707107,-0.707106,0.707106,0.707107,0,0)" id="path4844" style="fill:#00a000;fill-opacity:1"/>
+          <path d="M 170.55,0 A 170.55,170.55 0 0 1 162.20269,52.70285 L 0,0 z" transform="matrix(0.156435,-0.987688,0.987688,0.156435,0,0)" id="path4846" style="fill:#00a000;fill-opacity:1"/>
+        </g>
+        <g id="g4876" style="opacity:1;fill:#e7e4c7;fill-opacity:1;fill-rule:evenodd">
+          <path d="M 161.45,0 A 161.45,161.45 0 0 1 153.54807,49.890794 L 0,0 z" transform="matrix(-0.45399,-0.891007,0.891007,-0.45399,0,0)" id="number5"/>
+          <path d="M 161.45,0 A 161.45,161.45 0 0 1 153.54807,49.890794 L 0,0 z" transform="matrix(-0.891006,-0.453991,0.453991,-0.891006,0,0)" id="path4880"/>
+          <path d="M 161.45,0 A 161.45,161.45 0 0 1 153.54807,49.890794 L 0,0 z" transform="matrix(-0.987688,0.156434,-0.156434,-0.987688,0,0)" id="path4882"/>
+          <path d="M 161.45,0 A 161.45,161.45 0 0 1 153.54807,49.890794 L 0,0 z" transform="matrix(-0.707107,0.707106,-0.707106,-0.707107,0,0)" id="path4884"/>
+          <path d="M 161.45,0 A 161.45,161.45 0 0 1 153.54807,49.890794 L 0,0 z" transform="matrix(-0.156435,0.987688,-0.987688,-0.156435,0,0)" id="path4886"/>
+          <path d="M 161.45,0 A 161.45,161.45 0 0 1 153.54807,49.890794 L 0,0 z" transform="matrix(0.45399,0.891007,-0.891007,0.45399,0,0)" id="path4888"/>
+          <path d="M 161.45,0 A 161.45,161.45 0 0 1 153.54807,49.890794 L 0,0 z" transform="matrix(0.891006,0.453991,-0.453991,0.891006,0,0)" id="path4890"/>
+          <path d="M 161.45,0 A 161.45,161.45 0 0 1 153.54807,49.890794 L 0,0 z" transform="matrix(0.987688,-0.156434,0.156434,0.987688,0,0)" id="path4892"/>
+          <path d="M 161.45,0 A 161.45,161.45 0 0 1 153.54807,49.890794 L 0,0 z" transform="matrix(0.707107,-0.707106,0.707106,0.707107,0,0)" id="path4894"/>
+          <path d="M 161.45,0 A 161.45,161.45 0 0 1 153.54807,49.890794 L 0,0 z" transform="matrix(0.156435,-0.987688,0.987688,0.156435,0,0)" id="path4896"/>
+        </g>
+        <path d="M 16.450001,0 A 16.450001,16.450001 0 1 1 -16.450001,2.0144775e-15 A 16.450001,16.450001 0 1 1 16.450001,-4.0289551e-15 z" id="path5939" style="opacity:1;fill:#00a000;fill-opacity:1;fill-rule:evenodd"/>
+        <path d="M 6.9000001,0 A 6.9000001,6.9000001 0 1 1 -6.9000001,8.449784e-16 A 6.9000001,6.9000001 0 1 1 6.9000001,-1.6899568e-15 z" id="path5944" style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:evenodd"/>
+      </g>
+      <g id="BoardNumbers" style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Sans">
+        <text x="-16.95171" y="-187.82498" id="text6007" style="white-space: pre;"><tspan x="-16.95171" y="-187.82498" id="tspan6009">20</tspan></text>
+        <text x="51.872234" y="-180.36624" id="text6895" style="white-space: pre;"><tspan x="51.872234" y="-180.36624" id="tspan6897">1</tspan></text>
+        <text x="100.0151" y="-150.53122" id="text6903" style="white-space: pre;"><tspan x="100.0151" y="-150.53122" id="tspan6907">18</tspan></text>
+        <text x="153.24347" y="-103.74449" id="text6911" style="white-space: pre;"><tspan x="153.24347" y="-103.74449" id="tspan6913">4</tspan></text>
+        <text x="173.92455" y="-45.769642" id="text6915" style="white-space: pre;"><tspan x="173.92455" y="-45.769642" id="tspan6917">13</tspan></text>
+        <text x="187.14688" y="9.1538963" id="text6966" style="white-space: pre;"><tspan x="187.14688" y="9.1538963" id="tspan6968">6</tspan><tspan x="187.14688" y="37.153896" id="tspan6970"/></text>
+        <text x="171.5513" y="67.467781" id="text6923" style="white-space: pre;"><tspan x="171.5513" y="67.467781" id="tspan6925">10</tspan></text>
+        <text x="142.7334" y="127.13781" id="text6927" style="white-space: pre;"><tspan x="142.7334" y="127.13781" id="tspan6929">15</tspan></text>
+        <text x="106.11771" y="169.85611" id="text6931" style="white-space: pre;"><tspan x="106.11771" y="169.85611" id="tspan6933">2</tspan></text>
+        <text x="42.718311" y="196.63982" id="text6975" style="white-space: pre;"><tspan x="42.718311" y="196.63982" id="tspan6977">17</tspan></text>
+        <text x="-6.1026163" y="208.16699" id="text6979" style="white-space: pre;"><tspan x="-6.1026163" y="208.16699" id="tspan6981">3</tspan></text>
+        <text x="-74.248497" y="199.01306" id="text6983" style="white-space: pre;"><tspan x="-74.248497" y="199.01306" id="tspan6985">19</tspan></text>
+        <text x="-123.74748" y="173.24644" id="text6987" style="white-space: pre;"><tspan x="-123.74748" y="173.24644" id="tspan6989">7</tspan></text>
+        <text x="-174.94165" y="127.13781" id="text6991" style="white-space: pre;"><tspan x="-174.94165" y="127.13781" id="tspan6993">16</tspan></text>
+        <text x="-193.58855" y="72.892326" id="text6995" style="white-space: pre;"><tspan x="-193.58855" y="72.892326" id="tspan6997">8</tspan></text>
+        <text x="-214.60867" y="8.8148642" id="text7011" style="white-space: pre;"><tspan x="-214.60867" y="8.8148642" id="tspan7013">11</tspan></text>
+        <text x="-208.50606" y="-48.820953" id="text7015" style="white-space: pre;"><tspan x="-208.50606" y="-48.820953" id="tspan7017">14</tspan></text>
+        <text x="-165.10965" y="-109.50809" id="text7019" style="white-space: pre;"><tspan x="-165.10965" y="-109.50809" id="tspan7021">9</tspan></text>
+        <text x="-134.25755" y="-152.22639" id="text7023" style="white-space: pre;"><tspan x="-134.25755" y="-152.22639" id="tspan7025">12</tspan></text>
+        <text x="-67.467812" y="-178.67107" id="text7027" style="white-space: pre;"><tspan x="-67.467812" y="-178.67107" id="tspan7029">5</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

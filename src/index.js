@@ -1,5 +1,5 @@
 import React from 'react'
-import ReactDOM from 'react-dom';
+import ReactDOM from 'react-dom'
 import Game from './pages/Game'
 import * as serviceWorker from './serviceWorker'
 
